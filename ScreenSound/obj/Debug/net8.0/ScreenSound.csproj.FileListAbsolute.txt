@@ -1,0 +1,15 @@
+C:\Users\ana.soares\Desktop\C-35\ScreenSound\bin\Debug\net8.0\ScreenSound.exe
+C:\Users\ana.soares\Desktop\C-35\ScreenSound\bin\Debug\net8.0\ScreenSound.deps.json
+C:\Users\ana.soares\Desktop\C-35\ScreenSound\bin\Debug\net8.0\ScreenSound.runtimeconfig.json
+C:\Users\ana.soares\Desktop\C-35\ScreenSound\bin\Debug\net8.0\ScreenSound.dll
+C:\Users\ana.soares\Desktop\C-35\ScreenSound\bin\Debug\net8.0\ScreenSound.pdb
+C:\Users\ana.soares\Desktop\C-35\ScreenSound\obj\Debug\net8.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.soares\Desktop\C-35\ScreenSound\obj\Debug\net8.0\ScreenSound.AssemblyInfoInputs.cache
+C:\Users\ana.soares\Desktop\C-35\ScreenSound\obj\Debug\net8.0\ScreenSound.AssemblyInfo.cs
+C:\Users\ana.soares\Desktop\C-35\ScreenSound\obj\Debug\net8.0\ScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\ana.soares\Desktop\C-35\ScreenSound\obj\Debug\net8.0\ScreenSound.sourcelink.json
+C:\Users\ana.soares\Desktop\C-35\ScreenSound\obj\Debug\net8.0\ScreenSound.dll
+C:\Users\ana.soares\Desktop\C-35\ScreenSound\obj\Debug\net8.0\refint\ScreenSound.dll
+C:\Users\ana.soares\Desktop\C-35\ScreenSound\obj\Debug\net8.0\ScreenSound.pdb
+C:\Users\ana.soares\Desktop\C-35\ScreenSound\obj\Debug\net8.0\ScreenSound.genruntimeconfig.cache
+C:\Users\ana.soares\Desktop\C-35\ScreenSound\obj\Debug\net8.0\ref\ScreenSound.dll
