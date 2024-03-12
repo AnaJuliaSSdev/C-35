@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ana.soares\\Desktop\\ScreenSoundOOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55B3A325-35C9-40FD-ACA1-8A64624F0C11}|ScreenSoundOOP.csproj|c:\\users\\ana.soares\\desktop\\screensoundoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B3A325-35C9-40FD-ACA1-8A64624F0C11}|ScreenSoundOOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B3A325-35C9-40FD-ACA1-8A64624F0C11}|ScreenSoundOOP.csproj|c:\\users\\ana.soares\\desktop\\screensoundoop\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B3A325-35C9-40FD-ACA1-8A64624F0C11}|ScreenSoundOOP.csproj|solutionrelative:podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B3A325-35C9-40FD-ACA1-8A64624F0C11}|ScreenSoundOOP.csproj|c:\\users\\ana.soares\\desktop\\screensoundoop\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B3A325-35C9-40FD-ACA1-8A64624F0C11}|ScreenSoundOOP.csproj|solutionrelative:episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B3A325-35C9-40FD-ACA1-8A64624F0C11}|ScreenSoundOOP.csproj|c:\\users\\ana.soares\\desktop\\screensoundoop\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B3A325-35C9-40FD-ACA1-8A64624F0C11}|ScreenSoundOOP.csproj|solutionrelative:music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B3A325-35C9-40FD-ACA1-8A64624F0C11}|ScreenSoundOOP.csproj|c:\\users\\ana.soares\\desktop\\screensoundoop\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B3A325-35C9-40FD-ACA1-8A64624F0C11}|ScreenSoundOOP.csproj|solutionrelative:album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B3A325-35C9-40FD-ACA1-8A64624F0C11}|ScreenSoundOOP.csproj|c:\\users\\ana.soares\\desktop\\screensoundoop\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B3A325-35C9-40FD-ACA1-8A64624F0C11}|ScreenSoundOOP.csproj|solutionrelative:genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B3A325-35C9-40FD-ACA1-8A64624F0C11}|ScreenSoundOOP.csproj|c:\\users\\ana.soares\\desktop\\screensoundoop\\band.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B3A325-35C9-40FD-ACA1-8A64624F0C11}|ScreenSoundOOP.csproj|solutionrelative:band.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Podcast.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\ScreenSoundOOP\\Podcast.cs",
+              "RelativeDocumentMoniker": "Podcast.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\ScreenSoundOOP\\Podcast.cs",
+              "RelativeToolTip": "Podcast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:24:56.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Episode.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\ScreenSoundOOP\\Episode.cs",
+              "RelativeDocumentMoniker": "Episode.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\ScreenSoundOOP\\Episode.cs",
+              "RelativeToolTip": "Episode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:14:56.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Band.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\ScreenSoundOOP\\Band.cs",
+              "RelativeDocumentMoniker": "Band.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\ScreenSoundOOP\\Band.cs",
+              "RelativeToolTip": "Band.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:41:37.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\ScreenSoundOOP\\Genre.cs",
+              "RelativeDocumentMoniker": "Genre.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\ScreenSoundOOP\\Genre.cs",
+              "RelativeToolTip": "Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:40:00.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\ScreenSoundOOP\\Album.cs",
+              "RelativeDocumentMoniker": "Album.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\ScreenSoundOOP\\Album.cs",
+              "RelativeToolTip": "Album.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwBYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:24:14.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Music.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\ScreenSoundOOP\\Music.cs",
+              "RelativeDocumentMoniker": "Music.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\ScreenSoundOOP\\Music.cs",
+              "RelativeToolTip": "Music.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:18:56.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\ScreenSoundOOP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\ScreenSoundOOP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:13:56.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
