@@ -1,0 +1,1 @@
+The 'Program' entry point features a menu to execute all the proposed exercises. Each exercise is implemented within its own class, utilizing one or more methods within that class.
