@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ana.soares\\Desktop\\C-35\\ScreenSound\\ScreenSound.csproj": {}
+    "C:\\Users\\ana.soares\\Desktop\\DesafiosLogica\\DesafiosLogica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ana.soares\\Desktop\\C-35\\ScreenSound\\ScreenSound.csproj": {
+    "C:\\Users\\ana.soares\\Desktop\\DesafiosLogica\\DesafiosLogica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ana.soares\\Desktop\\C-35\\ScreenSound\\ScreenSound.csproj",
-        "projectName": "ScreenSound",
-        "projectPath": "C:\\Users\\ana.soares\\Desktop\\C-35\\ScreenSound\\ScreenSound.csproj",
+        "projectUniqueName": "C:\\Users\\ana.soares\\Desktop\\DesafiosLogica\\DesafiosLogica.csproj",
+        "projectName": "DesafiosLogica",
+        "projectPath": "C:\\Users\\ana.soares\\Desktop\\DesafiosLogica\\DesafiosLogica.csproj",
         "packagesPath": "C:\\Users\\ana.soares\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ana.soares\\Desktop\\C-35\\ScreenSound\\obj\\",
+        "outputPath": "C:\\Users\\ana.soares\\Desktop\\DesafiosLogica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ana.soares\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

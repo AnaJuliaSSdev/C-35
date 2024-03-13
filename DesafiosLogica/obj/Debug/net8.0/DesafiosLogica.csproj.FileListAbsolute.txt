@@ -1,0 +1,14 @@
+C:\Users\ana.soares\Desktop\DesafiosLogica\bin\Debug\net8.0\DesafiosLogica.exe
+C:\Users\ana.soares\Desktop\DesafiosLogica\bin\Debug\net8.0\DesafiosLogica.deps.json
+C:\Users\ana.soares\Desktop\DesafiosLogica\bin\Debug\net8.0\DesafiosLogica.runtimeconfig.json
+C:\Users\ana.soares\Desktop\DesafiosLogica\bin\Debug\net8.0\DesafiosLogica.dll
+C:\Users\ana.soares\Desktop\DesafiosLogica\bin\Debug\net8.0\DesafiosLogica.pdb
+C:\Users\ana.soares\Desktop\DesafiosLogica\obj\Debug\net8.0\DesafiosLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.soares\Desktop\DesafiosLogica\obj\Debug\net8.0\DesafiosLogica.AssemblyInfoInputs.cache
+C:\Users\ana.soares\Desktop\DesafiosLogica\obj\Debug\net8.0\DesafiosLogica.AssemblyInfo.cs
+C:\Users\ana.soares\Desktop\DesafiosLogica\obj\Debug\net8.0\DesafiosLogica.csproj.CoreCompileInputs.cache
+C:\Users\ana.soares\Desktop\DesafiosLogica\obj\Debug\net8.0\DesafiosLogica.dll
+C:\Users\ana.soares\Desktop\DesafiosLogica\obj\Debug\net8.0\refint\DesafiosLogica.dll
+C:\Users\ana.soares\Desktop\DesafiosLogica\obj\Debug\net8.0\DesafiosLogica.pdb
+C:\Users\ana.soares\Desktop\DesafiosLogica\obj\Debug\net8.0\DesafiosLogica.genruntimeconfig.cache
+C:\Users\ana.soares\Desktop\DesafiosLogica\obj\Debug\net8.0\ref\DesafiosLogica.dll
