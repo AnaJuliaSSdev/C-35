@@ -1,0 +1,14 @@
+C:\Users\ana.soares\Desktop\Challenge1\bin\Debug\net8.0\Challenge1.exe
+C:\Users\ana.soares\Desktop\Challenge1\bin\Debug\net8.0\Challenge1.deps.json
+C:\Users\ana.soares\Desktop\Challenge1\bin\Debug\net8.0\Challenge1.runtimeconfig.json
+C:\Users\ana.soares\Desktop\Challenge1\bin\Debug\net8.0\Challenge1.dll
+C:\Users\ana.soares\Desktop\Challenge1\bin\Debug\net8.0\Challenge1.pdb
+C:\Users\ana.soares\Desktop\Challenge1\obj\Debug\net8.0\Challenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.soares\Desktop\Challenge1\obj\Debug\net8.0\Challenge1.AssemblyInfoInputs.cache
+C:\Users\ana.soares\Desktop\Challenge1\obj\Debug\net8.0\Challenge1.AssemblyInfo.cs
+C:\Users\ana.soares\Desktop\Challenge1\obj\Debug\net8.0\Challenge1.csproj.CoreCompileInputs.cache
+C:\Users\ana.soares\Desktop\Challenge1\obj\Debug\net8.0\Challenge1.dll
+C:\Users\ana.soares\Desktop\Challenge1\obj\Debug\net8.0\refint\Challenge1.dll
+C:\Users\ana.soares\Desktop\Challenge1\obj\Debug\net8.0\Challenge1.pdb
+C:\Users\ana.soares\Desktop\Challenge1\obj\Debug\net8.0\Challenge1.genruntimeconfig.cache
+C:\Users\ana.soares\Desktop\Challenge1\obj\Debug\net8.0\ref\Challenge1.dll
