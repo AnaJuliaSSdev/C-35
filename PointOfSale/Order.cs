@@ -29,7 +29,7 @@
         public void FinishOrder(List<String> paymentMethods)
         {
             double total = this.totalValue;
-            Console.WriteLine($"Your order total was: {total}");
+            Console.WriteLine($"Your order total was: $ {total}");
             Console.WriteLine("\nWhat is the payment method?\n");
 
             foreach (string paymentMethod in paymentMethods)
@@ -58,7 +58,7 @@
                 double amount;
                 while (true)
                 {
-                    Console.WriteLine("Enter the amount paid by the customer in cash:");
+                    Console.WriteLine("\nEnter the amount paid by the customer in cash:");
                     if (!double.TryParse(Console.ReadLine(), out amount) || amount < total)
                     {
                         Console.WriteLine("\nInvalid amount. Please enter a valid amount equal to or greater than the total.");

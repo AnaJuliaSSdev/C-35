@@ -1,26 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ana.soares\\Desktop\\PointOfSale\\",
+  "WorkspaceRootPath": "C:\\Users\\ana.soares\\Desktop\\C-35\\PointOfSale\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C245475-6BF0-42F5-9994-697B52E93462}|PointOfSale.csproj|c:\\users\\ana.soares\\desktop\\pointofsale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C245475-6BF0-42F5-9994-697B52E93462}|PointOfSale.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.soares\\Desktop\\C-35\\PointOfSale\\Stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C245475-6BF0-42F5-9994-697B52E93462}|PointOfSale.csproj|c:\\users\\ana.soares\\desktop\\pointofsale\\cashregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C245475-6BF0-42F5-9994-697B52E93462}|PointOfSale.csproj|solutionrelative:cashregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.soares\\Desktop\\C-35\\PointOfSale\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C245475-6BF0-42F5-9994-697B52E93462}|PointOfSale.csproj|c:\\users\\ana.soares\\desktop\\pointofsale\\dbmaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C245475-6BF0-42F5-9994-697B52E93462}|PointOfSale.csproj|solutionrelative:dbmaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.soares\\Desktop\\C-35\\PointOfSale\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C245475-6BF0-42F5-9994-697B52E93462}|PointOfSale.csproj|c:\\users\\ana.soares\\desktop\\pointofsale\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C245475-6BF0-42F5-9994-697B52E93462}|PointOfSale.csproj|solutionrelative:stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C245475-6BF0-42F5-9994-697B52E93462}|PointOfSale.csproj|c:\\users\\ana.soares\\desktop\\pointofsale\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C245475-6BF0-42F5-9994-697B52E93462}|PointOfSale.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.soares\\Desktop\\C-35\\PointOfSale\\CashRegister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CashRegister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,41 +26,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\PointOfSale\\Order.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\PointOfSale\\Order.cs",
               "RelativeDocumentMoniker": "Order.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\PointOfSale\\Order.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\PointOfSale\\Order.cs",
               "RelativeToolTip": "Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEIAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T17:35:09.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\PointOfSale\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\PointOfSale\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\PointOfSale\\Program.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\PointOfSale\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T17:29:20.626Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CashRegister.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\PointOfSale\\CashRegister.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\PointOfSale\\CashRegister.cs",
               "RelativeDocumentMoniker": "CashRegister.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\PointOfSale\\CashRegister.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\PointOfSale\\CashRegister.cs",
               "RelativeToolTip": "CashRegister.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,31 +72,14 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DBManeger.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\PointOfSale\\DBManeger.cs",
-              "RelativeDocumentMoniker": "DBManeger.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\PointOfSale\\DBManeger.cs",
-              "RelativeToolTip": "DBManeger.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T17:56:22.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Stock.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\PointOfSale\\Stock.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\PointOfSale\\Stock.cs",
               "RelativeDocumentMoniker": "Stock.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\PointOfSale\\Stock.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\PointOfSale\\Stock.cs",
               "RelativeToolTip": "Stock.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T17:48:19.846Z",
               "EditorCaption": ""

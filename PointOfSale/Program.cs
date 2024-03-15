@@ -17,7 +17,7 @@
                 Console.Clear();
                 DisplayLogo();
                 Console.WriteLine("Enter 1 to start a order");
-                Console.WriteLine("Enter 2 to add a item to an order");
+                Console.WriteLine("Enter 2 to add a item to current order");
                 Console.WriteLine("Enter 3 to view the current order");
                 Console.WriteLine("Enter 4 to finish the current order");
                 Console.WriteLine("Enter 5 to check current product stock");

@@ -6,7 +6,7 @@
 
         public void DecreaseStock(int amount, int code)
         {
-            stock[code]--;
+            stock[code] -= amount;
         }
 
         public void CheckProductStock(List<Product> products)
