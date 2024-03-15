@@ -1,0 +1,14 @@
+C:\Users\ana.soares\Desktop\PointOfSale\bin\Debug\net8.0\PointOfSale.exe
+C:\Users\ana.soares\Desktop\PointOfSale\bin\Debug\net8.0\PointOfSale.deps.json
+C:\Users\ana.soares\Desktop\PointOfSale\bin\Debug\net8.0\PointOfSale.runtimeconfig.json
+C:\Users\ana.soares\Desktop\PointOfSale\bin\Debug\net8.0\PointOfSale.dll
+C:\Users\ana.soares\Desktop\PointOfSale\bin\Debug\net8.0\PointOfSale.pdb
+C:\Users\ana.soares\Desktop\PointOfSale\obj\Debug\net8.0\PointOfSale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.soares\Desktop\PointOfSale\obj\Debug\net8.0\PointOfSale.AssemblyInfoInputs.cache
+C:\Users\ana.soares\Desktop\PointOfSale\obj\Debug\net8.0\PointOfSale.AssemblyInfo.cs
+C:\Users\ana.soares\Desktop\PointOfSale\obj\Debug\net8.0\PointOfSale.csproj.CoreCompileInputs.cache
+C:\Users\ana.soares\Desktop\PointOfSale\obj\Debug\net8.0\PointOfSale.dll
+C:\Users\ana.soares\Desktop\PointOfSale\obj\Debug\net8.0\refint\PointOfSale.dll
+C:\Users\ana.soares\Desktop\PointOfSale\obj\Debug\net8.0\PointOfSale.pdb
+C:\Users\ana.soares\Desktop\PointOfSale\obj\Debug\net8.0\PointOfSale.genruntimeconfig.cache
+C:\Users\ana.soares\Desktop\PointOfSale\obj\Debug\net8.0\ref\PointOfSale.dll
