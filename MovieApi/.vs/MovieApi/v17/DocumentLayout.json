@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ana.soares\\Desktop\\MovieApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D96B149B-BC97-4B29-9A2E-C8BE36C7DDE5}|MovieApi.csproj|c:\\users\\ana.soares\\desktop\\movieapi\\dtos\\createmoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96B149B-BC97-4B29-9A2E-C8BE36C7DDE5}|MovieApi.csproj|solutionrelative:dtos\\createmoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateMovieDto.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\MovieApi\\Dtos\\CreateMovieDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CreateMovieDto.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\MovieApi\\Dtos\\CreateMovieDto.cs",
+              "RelativeToolTip": "Dtos\\CreateMovieDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:15:33.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

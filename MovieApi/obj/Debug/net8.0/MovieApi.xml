@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MovieApi</name>
+    </assembly>
+    <members>
+        <member name="M:MovieApi.Controllers.MovieController.AddMovie(MovieApi.Dtos.CreateMovieDto)">
+            <summary>
+            Add a movie to the database
+            </summary>
+            <param name="MovieDto">Object with the fields necessary to create a movie</param>
+            <returns>IActionResult</returns>
+            <response code="201">If insertion is successful</response>
+        </member>
+        <member name="M:MovieApi.Controllers.MovieController.GetMovies(System.Int32,System.Int32)">
+            <summary>
+            Retrieves a list of movies from the database with optional pagination.
+            </summary>
+            <remarks>
+            This endpoint retrieves a list of movies from the database. 
+            You can optionally specify the number of records to skip and the maximum number of records to return.
+            </remarks>
+            <param name="skip">Number of records to skip. Default is 0.</param>
+            <param name="take">Maximum number of records to return. Default is 10.</param>
+            <returns>Returns a list of movies.</returns>
+            <response code="200">Returns the list of movies.</response>
+        </member>
+        <member name="M:MovieApi.Controllers.MovieController.GetMovieById(System.Int32)">
+            <summary>
+            Retrieves a movie from the database by its unique identifier.
+            </summary>
+            <remarks>
+            This endpoint retrieves a single movie from the database based on its unique identifier.
+            </remarks>
+            <param name="id">The unique identifier of the movie to retrieve.</param>
+            <returns>Returns the movie with the specified identifier.</returns>
+            <response code="200">Returns the movie with the specified identifier.</response>
+            <response code="404">If no movie with the specified identifier is found.</response>
+        </member>
+        <member name="M:MovieApi.Controllers.MovieController.UpdateMovie(System.Int32,MovieApi.Dtos.UpdateMovieDto)">
+            <summary>
+            Updates a movie in the database by its unique identifier.
+            </summary>
+            <remarks>
+            This endpoint updates an existing movie in the database based on its unique identifier.
+            </remarks>
+            <param name="id">The unique identifier of the movie to update.</param>
+            <param name="movieDto">Object containing the fields to update for the movie.</param>
+            <returns>Returns NoContent if the update is successful.</returns>
+            <response code="204">If the update is successful.</response>
+            <response code="404">If no movie with the specified identifier is found.</response>
+        </member>
+        <member name="M:MovieApi.Controllers.MovieController.UpdateMoviePatch(System.Int32,Microsoft.AspNetCore.JsonPatch.JsonPatchDocument{MovieApi.Dtos.UpdateMovieDto})">
+            <summary>
+            Partially updates a movie in the database by its unique identifier.
+            </summary>
+            <remarks>
+            This endpoint partially updates an existing movie in the database based on its unique identifier.
+            </remarks>
+            <param name="id">The unique identifier of the movie to update.</param>
+            <param name="patch">A JSON patch document containing the fields to update for the movie.</param>
+            <returns>Returns NoContent if the update is successful.</returns>
+            <response code="204">If the update is successful.</response>
+            <response code="404">If no movie with the specified identifier is found.</response>
+            <response code="400">If the provided patch document is invalid.</response>
+        </member>
+        <member name="M:MovieApi.Controllers.MovieController.DeleteMovie(System.Int32)">
+            <summary>
+            Deletes a movie from the database by its unique identifier.
+            </summary>
+            <remarks>
+            This endpoint deletes an existing movie from the database based on its unique identifier.
+            </remarks>
+            <param name="id">The unique identifier of the movie to delete.</param>
+            <returns>Returns NoContent if the deletion is successful.</returns>
+            <response code="204">If the deletion is successful.</response>
+            <response code="404">If no movie with the specified identifier is found.</response>
+        </member>
+        <member name="T:MovieApi.Migrations.CreatingMovieTable">
+            <inheritdoc />
+        </member>
+        <member name="M:MovieApi.Migrations.CreatingMovieTable.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:MovieApi.Migrations.CreatingMovieTable.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:MovieApi.Migrations.CreatingMovieTable.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
