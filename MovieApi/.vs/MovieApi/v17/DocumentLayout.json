@@ -1,10 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ana.soares\\Desktop\\MovieApi\\",
+  "WorkspaceRootPath": "C:\\Users\\ana.soares\\Desktop\\C-35\\MovieApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D96B149B-BC97-4B29-9A2E-C8BE36C7DDE5}|MovieApi.csproj|c:\\users\\ana.soares\\desktop\\movieapi\\dtos\\createmoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D96B149B-BC97-4B29-9A2E-C8BE36C7DDE5}|MovieApi.csproj|solutionrelative:dtos\\createmoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.soares\\Desktop\\C-35\\MovieApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.soares\\Desktop\\C-35\\MovieApi\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.soares\\Desktop\\C-35\\MovieApi\\Profiles\\MovieProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Profiles\\MovieProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.soares\\Desktop\\C-35\\MovieApi\\Models\\Movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.soares\\Desktop\\C-35\\MovieApi\\Migrations\\MovieContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\MovieContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.soares\\Desktop\\C-35\\MovieApi\\Dtos\\UpdateMovieDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dtos\\UpdateMovieDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.soares\\Desktop\\C-35\\MovieApi\\Dtos\\ReadMovieDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dtos\\ReadMovieDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.soares\\Desktop\\C-35\\MovieApi\\Dtos\\CreateMovieDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dtos\\CreateMovieDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,15 +51,99 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\MovieApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\MovieApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:59:04.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\MovieApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\MovieApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T16:59:02.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\MovieApi\\Profiles\\MovieProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\MovieProfile.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\MovieApi\\Profiles\\MovieProfile.cs",
+              "RelativeToolTip": "Profiles\\MovieProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:58:51.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\MovieApi\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\MovieApi\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:58:42.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\MovieApi\\Migrations\\MovieContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\MovieContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\MovieApi\\Migrations\\MovieContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\MovieContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:58:33.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateMovieDto.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\MovieApi\\Dtos\\UpdateMovieDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\UpdateMovieDto.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\MovieApi\\Dtos\\UpdateMovieDto.cs",
+              "RelativeToolTip": "Dtos\\UpdateMovieDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:58:15.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReadMovieDto.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\MovieApi\\Dtos\\ReadMovieDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\ReadMovieDto.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\MovieApi\\Dtos\\ReadMovieDto.cs",
+              "RelativeToolTip": "Dtos\\ReadMovieDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:58:06.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CreateMovieDto.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\MovieApi\\Dtos\\CreateMovieDto.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\MovieApi\\Dtos\\CreateMovieDto.cs",
               "RelativeDocumentMoniker": "Dtos\\CreateMovieDto.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\MovieApi\\Dtos\\CreateMovieDto.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\MovieApi\\Dtos\\CreateMovieDto.cs",
               "RelativeToolTip": "Dtos\\CreateMovieDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T12:15:33.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-19T12:15:33.769Z"
             }
           ]
         }
