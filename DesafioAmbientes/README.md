@@ -1,0 +1,3 @@
+Este desafio consiste em configurar uma API geradora de erros e nela configurar dois perfis de execução no launchSettings.json, sendo um perfil para Development e um para Production.
+No ambiente Development é permitido que os erros sejam devolvidos integralmente nas respostas das requisições, através do UseDeveloperExceptionPage(). Porém, em Production, deve haver um handling para o endpoint "error" através do uso de um middleware padrão do ASP.NET Core que possui essa capacidade. O endpoint "error" é responsável por tratar estes errors lançados, os mapeando para seus devidos códigos de status de resposta. Essa lógica de mapeamento também precisa ser implementada.
+

@@ -1,11 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Dtos",
-    "\\Models",
-    "\\Profiles",
-    "\\Properties"
+    "\\Controllers",
+    "\\Dtos"
   ],
-  "SelectedNode": "\\Program.cs",
+  "SelectedNode": "\\MovieApi.sln",
   "PreviewInSolutionExplorer": false
 }

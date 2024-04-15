@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Enums",
-    "\\Models",
-    "\\Profiles",
-    "\\Properties"
+    ""
   ],
-  "SelectedNode": "\\Models\\ToDo.cs",
+  "SelectedNode": "\\Enums",
   "PreviewInSolutionExplorer": false
 }

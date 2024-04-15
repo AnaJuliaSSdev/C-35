@@ -10,12 +10,15 @@ namespace MovieApi
     {
         public static void Main(string[] args)
         {
+
             var builder = WebApplication.CreateBuilder(args);
 
-            var connectionString = builder.Configuration.GetConnectionString("MovieConnection"); 
+            var connectionString = builder.Configuration.GetConnectionString("MovieConnection");
 
             builder.Services.AddDbContext<MovieContext>(opts =>
-                opts.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
+                opts.UseLazyLoadingProxies().UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
+
+            builder.Services.AddHttpClient();
 
             builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
@@ -24,6 +27,8 @@ namespace MovieApi
             builder.Services.AddControllers().AddNewtonsoftJson();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
+
+            builder.Services.AddAuthorization();    
 
             builder.Services.AddSwaggerGen(c =>
             {
@@ -40,12 +45,11 @@ namespace MovieApi
             {
                 app.UseSwagger();
                 app.UseSwaggerUI();
-            }
-
-            app.UseHttpsRedirection();
+            }   
 
             app.UseAuthorization();
 
+            app.UseHttpsRedirection();
 
             app.MapControllers();
 

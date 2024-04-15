@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafiosLogica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa252618e2333437803b6cb6d6164206555bb22d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafiosLogica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafiosLogica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

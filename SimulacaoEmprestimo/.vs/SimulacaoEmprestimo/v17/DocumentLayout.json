@@ -1,58 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\",
+  "WorkspaceRootPath": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|c:\\users\\ana.soares\\desktop\\simulacaoemprestimo\\services\\calculadoremprestimoaposentado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|solutionrelative:services\\calculadoremprestimoaposentado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|c:\\users\\ana.soares\\desktop\\simulacaoemprestimo\\models\\simulacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|solutionrelative:models\\simulacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Services\\CalculadorEmprestimoAposentado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\CalculadorEmprestimoAposentado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|c:\\users\\ana.soares\\desktop\\simulacaoemprestimo\\services\\servicosimulacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|solutionrelative:services\\servicosimulacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Steps\\Etapa2AnalisePreliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Steps\\Etapa2AnalisePreliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|c:\\users\\ana.soares\\desktop\\simulacaoemprestimo\\services\\calculadoremprestimopessoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|solutionrelative:services\\calculadoremprestimopessoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Steps\\Etapa4Conclusao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Steps\\Etapa4Conclusao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|c:\\users\\ana.soares\\desktop\\simulacaoemprestimo\\services\\icalculadoremprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|solutionrelative:services\\icalculadoremprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Services\\ICalculadorEmprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\ICalculadorEmprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|c:\\users\\ana.soares\\desktop\\simulacaoemprestimo\\steps\\etapa4conclusao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|solutionrelative:steps\\etapa4conclusao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Services\\CalculadorEmprestimoPessoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\CalculadorEmprestimoPessoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|c:\\users\\ana.soares\\desktop\\simulacaoemprestimo\\steps\\etapa2analisepreliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|solutionrelative:steps\\etapa2analisepreliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Services\\ServicoSimulacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\ServicoSimulacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|c:\\users\\ana.soares\\desktop\\simulacaoemprestimo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Models\\Simulacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Simulacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|c:\\users\\ana.soares\\desktop\\simulacaoemprestimo\\models\\solicitacaosimulacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|solutionrelative:models\\solicitacaosimulacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Models\\SolicitacaoSimulacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\SolicitacaoSimulacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|c:\\users\\ana.soares\\desktop\\simulacaoemprestimo\\enums\\tipoemprestimo.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|solutionrelative:enums\\tipoemprestimo.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Enums\\TipoEmprestimo.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Enums\\TipoEmprestimo.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|c:\\users\\ana.soares\\desktop\\simulacaoemprestimo\\enums\\situacaoanalise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|solutionrelative:enums\\situacaoanalise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Enums\\SituacaoAnalise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Enums\\SituacaoAnalise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|c:\\users\\ana.soares\\desktop\\simulacaoemprestimo\\simulacaoemprestimo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|solutionrelative:simulacaoemprestimo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\SimulacaoEmprestimo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SimulacaoEmprestimo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|c:\\users\\ana.soares\\desktop\\simulacaoemprestimo\\steps\\etapa1preparacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C76CAB9A-6919-4BCD-B660-FAFF332865A2}|SimulacaoEmprestimo.csproj|solutionrelative:steps\\etapa1preparacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Steps\\Etapa1Preparacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Steps\\Etapa1Preparacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,17 +62,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\Program.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAADwv0wAAAAXAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAEwAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T20:11:30.251Z",
               "IsPinned": true,
@@ -87,90 +87,88 @@
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Etapa2AnalisePreliminar.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\Steps\\Etapa2AnalisePreliminar.cs",
-              "RelativeDocumentMoniker": "Steps\\Etapa2AnalisePreliminar.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\Steps\\Etapa2AnalisePreliminar.cs",
-              "RelativeToolTip": "Steps\\Etapa2AnalisePreliminar.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAowA4AAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T17:38:48.514Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "Etapa2AnalisePreliminar.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Steps\\Etapa2AnalisePreliminar.cs",
+              "RelativeDocumentMoniker": "Steps\\Etapa2AnalisePreliminar.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Steps\\Etapa2AnalisePreliminar.cs",
+              "RelativeToolTip": "Steps\\Etapa2AnalisePreliminar.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:38:48.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Etapa4Conclusao.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\Steps\\Etapa4Conclusao.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Steps\\Etapa4Conclusao.cs",
               "RelativeDocumentMoniker": "Steps\\Etapa4Conclusao.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\Steps\\Etapa4Conclusao.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Steps\\Etapa4Conclusao.cs",
               "RelativeToolTip": "Steps\\Etapa4Conclusao.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAwwBYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T17:53:37.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T17:53:37.885Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ICalculadorEmprestimo.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\Services\\ICalculadorEmprestimo.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Services\\ICalculadorEmprestimo.cs",
               "RelativeDocumentMoniker": "Services\\ICalculadorEmprestimo.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\Services\\ICalculadorEmprestimo.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Services\\ICalculadorEmprestimo.cs",
               "RelativeToolTip": "Services\\ICalculadorEmprestimo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T17:50:44.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T17:50:44.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CalculadorEmprestimoPessoal.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\Services\\CalculadorEmprestimoPessoal.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Services\\CalculadorEmprestimoPessoal.cs",
               "RelativeDocumentMoniker": "Services\\CalculadorEmprestimoPessoal.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\Services\\CalculadorEmprestimoPessoal.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Services\\CalculadorEmprestimoPessoal.cs",
               "RelativeToolTip": "Services\\CalculadorEmprestimoPessoal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T18:41:33.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T18:41:33.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ServicoSimulacao.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\Services\\ServicoSimulacao.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Services\\ServicoSimulacao.cs",
               "RelativeDocumentMoniker": "Services\\ServicoSimulacao.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\Services\\ServicoSimulacao.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Services\\ServicoSimulacao.cs",
               "RelativeToolTip": "Services\\ServicoSimulacao.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T17:43:12.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T17:43:12.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Simulacao.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Models\\Simulacao.cs",
+              "RelativeDocumentMoniker": "Models\\Simulacao.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Models\\Simulacao.cs",
+              "RelativeToolTip": "Models\\Simulacao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:59:12.908Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Simulacao.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\Models\\Simulacao.cs",
-              "RelativeDocumentMoniker": "Models\\Simulacao.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\Models\\Simulacao.cs",
-              "RelativeToolTip": "Models\\Simulacao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T17:59:12.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "CalculadorEmprestimoAposentado.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\Services\\CalculadorEmprestimoAposentado.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Services\\CalculadorEmprestimoAposentado.cs",
               "RelativeDocumentMoniker": "Services\\CalculadorEmprestimoAposentado.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\Services\\CalculadorEmprestimoAposentado.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Services\\CalculadorEmprestimoAposentado.cs",
               "RelativeToolTip": "Services\\CalculadorEmprestimoAposentado.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -181,48 +179,45 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "SolicitacaoSimulacao.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\Models\\SolicitacaoSimulacao.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Models\\SolicitacaoSimulacao.cs",
               "RelativeDocumentMoniker": "Models\\SolicitacaoSimulacao.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\Models\\SolicitacaoSimulacao.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Models\\SolicitacaoSimulacao.cs",
               "RelativeToolTip": "Models\\SolicitacaoSimulacao.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T18:23:15.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T18:23:15.022Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "TipoEmprestimo.cs.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\Enums\\TipoEmprestimo.cs.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Enums\\TipoEmprestimo.cs.cs",
               "RelativeDocumentMoniker": "Enums\\TipoEmprestimo.cs.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\Enums\\TipoEmprestimo.cs.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Enums\\TipoEmprestimo.cs.cs",
               "RelativeToolTip": "Enums\\TipoEmprestimo.cs.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T18:06:04.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T18:06:04.163Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "SituacaoAnalise.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\Enums\\SituacaoAnalise.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Enums\\SituacaoAnalise.cs",
               "RelativeDocumentMoniker": "Enums\\SituacaoAnalise.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\Enums\\SituacaoAnalise.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Enums\\SituacaoAnalise.cs",
               "RelativeToolTip": "Enums\\SituacaoAnalise.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T18:06:02.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T18:06:02.417Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "SimulacaoEmprestimo.http",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\SimulacaoEmprestimo.http",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\SimulacaoEmprestimo.http",
               "RelativeDocumentMoniker": "SimulacaoEmprestimo.http",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\SimulacaoEmprestimo.http",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\SimulacaoEmprestimo.http",
               "RelativeToolTip": "SimulacaoEmprestimo.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -232,9 +227,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Etapa1Preparacao.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\Steps\\Etapa1Preparacao.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Steps\\Etapa1Preparacao.cs",
               "RelativeDocumentMoniker": "Steps\\Etapa1Preparacao.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\SimulacaoEmprestimo\\Steps\\Etapa1Preparacao.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\SimulacaoEmprestimo\\Steps\\Etapa1Preparacao.cs",
               "RelativeToolTip": "Steps\\Etapa1Preparacao.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
