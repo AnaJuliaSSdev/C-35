@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ana.soares\\Desktop\\APIPreferenciasNotificacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55738777-2B2A-4753-A2EF-76A367F5EA69}|APIPreferenciasNotificacao.csproj|c:\\users\\ana.soares\\desktop\\apipreferenciasnotificacao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55738777-2B2A-4753-A2EF-76A367F5EA69}|APIPreferenciasNotificacao.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55738777-2B2A-4753-A2EF-76A367F5EA69}|APIPreferenciasNotificacao.csproj|c:\\users\\ana.soares\\desktop\\apipreferenciasnotificacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55738777-2B2A-4753-A2EF-76A367F5EA69}|APIPreferenciasNotificacao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55738777-2B2A-4753-A2EF-76A367F5EA69}|APIPreferenciasNotificacao.csproj|c:\\users\\ana.soares\\desktop\\apipreferenciasnotificacao\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55738777-2B2A-4753-A2EF-76A367F5EA69}|APIPreferenciasNotificacao.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55738777-2B2A-4753-A2EF-76A367F5EA69}|APIPreferenciasNotificacao.csproj|c:\\users\\ana.soares\\desktop\\apipreferenciasnotificacao\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55738777-2B2A-4753-A2EF-76A367F5EA69}|APIPreferenciasNotificacao.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55738777-2B2A-4753-A2EF-76A367F5EA69}|APIPreferenciasNotificacao.csproj|c:\\users\\ana.soares\\desktop\\apipreferenciasnotificacao\\services\\appsettingsmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55738777-2B2A-4753-A2EF-76A367F5EA69}|APIPreferenciasNotificacao.csproj|solutionrelative:services\\appsettingsmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55738777-2B2A-4753-A2EF-76A367F5EA69}|APIPreferenciasNotificacao.csproj|c:\\users\\ana.soares\\desktop\\apipreferenciasnotificacao\\services\\isettingsmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55738777-2B2A-4753-A2EF-76A367F5EA69}|APIPreferenciasNotificacao.csproj|solutionrelative:services\\isettingsmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55738777-2B2A-4753-A2EF-76A367F5EA69}|APIPreferenciasNotificacao.csproj|c:\\users\\ana.soares\\desktop\\apipreferenciasnotificacao\\options\\notificacaooptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55738777-2B2A-4753-A2EF-76A367F5EA69}|APIPreferenciasNotificacao.csproj|solutionrelative:options\\notificacaooptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55738777-2B2A-4753-A2EF-76A367F5EA69}|APIPreferenciasNotificacao.csproj|c:\\users\\ana.soares\\desktop\\apipreferenciasnotificacao\\options\\concordancianotificacaooptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55738777-2B2A-4753-A2EF-76A367F5EA69}|APIPreferenciasNotificacao.csproj|solutionrelative:options\\concordancianotificacaooptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\APIPreferenciasNotificacao\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\APIPreferenciasNotificacao\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T19:05:38.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\APIPreferenciasNotificacao\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\APIPreferenciasNotificacao\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T20:48:01.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\APIPreferenciasNotificacao\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\APIPreferenciasNotificacao\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T20:04:13.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppSettingsMap.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\APIPreferenciasNotificacao\\Services\\AppSettingsMap.cs",
+              "RelativeDocumentMoniker": "Services\\AppSettingsMap.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\APIPreferenciasNotificacao\\Services\\AppSettingsMap.cs",
+              "RelativeToolTip": "Services\\AppSettingsMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:57:51.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISettingsMap.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\APIPreferenciasNotificacao\\Services\\ISettingsMap.cs",
+              "RelativeDocumentMoniker": "Services\\ISettingsMap.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\APIPreferenciasNotificacao\\Services\\ISettingsMap.cs",
+              "RelativeToolTip": "Services\\ISettingsMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:57:36.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConcordanciaNotificacaoOptions.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\APIPreferenciasNotificacao\\Options\\ConcordanciaNotificacaoOptions.cs",
+              "RelativeDocumentMoniker": "Options\\ConcordanciaNotificacaoOptions.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\APIPreferenciasNotificacao\\Options\\ConcordanciaNotificacaoOptions.cs",
+              "RelativeToolTip": "Options\\ConcordanciaNotificacaoOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:56:42.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificacaoOptions.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\APIPreferenciasNotificacao\\Options\\NotificacaoOptions.cs",
+              "RelativeDocumentMoniker": "Options\\NotificacaoOptions.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\APIPreferenciasNotificacao\\Options\\NotificacaoOptions.cs",
+              "RelativeToolTip": "Options\\NotificacaoOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:56:23.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\APIPreferenciasNotificacao\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\APIPreferenciasNotificacao\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA/wCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:55:47.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

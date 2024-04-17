@@ -1,0 +1,8 @@
+# Desafio appSettings.json: API de Preferências de Notificação
+
+A API de Preferências de Notificação é um serviço de consulta que outros serviços acessam, através de um endpoint `GET`, para verificar quais tipos de comunicação estão permitidas para o envio de notificações aos destinatários. Estas preferências são armazenadas em arquivos *appSettings*, que são atualizados de tempos em tempos. Até alguns dias atrás, toda vez que o *appSettings* era atualizado, o serviço precisava ser reiniciado, então o estagiário resolveu ser proativo e implementar o mecanismo de uso de *OptionsSnapshot* para possibilitar uso de settings atualizadas em tempo real sem o "trade-off" de indisponibilidade temporária.
+
+O problema é que agora a aplicação sequer inicializa, e ele está desesperado sem saber o que fazer. Ele veio até você e está pedindo sua ajuda para descobrir uma solução que seja rápida, elegante, e que tenha impacto quase zero na implementação atual. Utilize os *code snippets* disponibilizados abaixo para construir a API, e efetue as modificações necessárias para atingir o comportamento de atualização em tempo real sem indisponibilidade. Existem restrições aqui do que você **NÃO** poderá fazer:
+1. Mudar a injeção de dependência do *AppSettingsMap*: Ele precisa permanecer *Singleton*, por questão de boas práticas e performance.
+2. Modificar o esqueleto geral das dependências: A dinâmica de dependências `Endpoint GET ➡ AppSettingsMap ➡ NotificacaoOptions` não pode ser alterada.
+3. E reforçando, NÃO pode haver mais a necessidade de reinício da aplicação para que configurações atualizadas no *appSettings* passem a ser refletidas no mapa de configurações.

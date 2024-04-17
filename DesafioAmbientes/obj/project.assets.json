@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ana.soares\\Desktop\\DesafioAmbientes\\DesafioAmbientes.csproj",
+      "projectUniqueName": "C:\\Users\\ana.soares\\Desktop\\C-35\\DesafioAmbientes\\DesafioAmbientes.csproj",
       "projectName": "DesafioAmbientes",
-      "projectPath": "C:\\Users\\ana.soares\\Desktop\\DesafioAmbientes\\DesafioAmbientes.csproj",
+      "projectPath": "C:\\Users\\ana.soares\\Desktop\\C-35\\DesafioAmbientes\\DesafioAmbientes.csproj",
       "packagesPath": "C:\\Users\\ana.soares\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ana.soares\\Desktop\\DesafioAmbientes\\obj\\",
+      "outputPath": "C:\\Users\\ana.soares\\Desktop\\C-35\\DesafioAmbientes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ana.soares\\AppData\\Roaming\\NuGet\\NuGet.Config",
