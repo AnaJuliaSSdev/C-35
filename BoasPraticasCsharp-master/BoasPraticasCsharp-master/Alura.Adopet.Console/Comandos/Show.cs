@@ -1,28 +1,39 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Alura.Adopet.Console.Util;
+﻿using Alura.Adopet.Console.Util;
+using FluentResults;
+using System;
 
 namespace Alura.Adopet.Console.Comandos
 {
     [DocComando(instrucao: "show", documentacao: " adopet show <ARQUIVO> comando que exibe no terminal o conteúdo do arquivo importado.")]
-    internal class Show : IComando
+    public class Show : IComando
     {
-        public Task ExecutarAsync(string[] args)
+        private readonly LeitorDeArquivo leitorDeArquivo;
+
+        public Show(LeitorDeArquivo leitorDeArquivo)
         {
-            this.ExibeConteudoDoArquivo(caminhoDoArquivoASerExibido: args[1]); 
-            return Task.CompletedTask;
+            this.leitorDeArquivo = leitorDeArquivo;
         }
 
-        private void ExibeConteudoDoArquivo(string caminhoDoArquivoASerExibido)
+        public Task<Result> ExecutarAsync()
         {
-            LeitorDeArquivo leitorDeArquivo = new LeitorDeArquivo();
-            var listaDePets = leitorDeArquivo.RealizaLeitura(caminhoDoArquivoASerExibido);
-            foreach (var pet in listaDePets)
+            return this.ExibeConteudoDoArquivo();
+        }
+
+        private async Task<Result> ExibeConteudoDoArquivo()
+        {
+            try
             {
-                System.Console.WriteLine(pet);
+                var listaDePets = leitorDeArquivo.RealizaLeitura();
+                foreach (var pet in listaDePets)
+                {
+                    System.Console.WriteLine(pet);
+                }
+
+                return Result.Ok().WithSuccess(success: new SuccessWithPets(listaDePets, "Exibição do arquivo realizada com sucesso!"));
+            }
+            catch (Exception exception)
+            {
+                return Result.Fail(new Error("Erro na exibição do arquivo!").CausedBy(exception));
             }
         }
     }

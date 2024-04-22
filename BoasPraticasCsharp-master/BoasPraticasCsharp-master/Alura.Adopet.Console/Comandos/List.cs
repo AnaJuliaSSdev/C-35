@@ -1,54 +1,36 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.Http.Headers;
-using System.Net.Http.Json;
-using System.Text;
-using System.Threading.Tasks;
-using Alura.Adopet.Console.Modelos;
+﻿using Alura.Adopet.Console.Modelos;
+using Alura.Adopet.Console.Servicos;
+using Alura.Adopet.Console.Util;
+using FluentResults;
 
 namespace Alura.Adopet.Console.Comandos
 {
     [DocComando(instrucao: "list", documentacao: " adopet list comando que exibe no terminal o conteúdo cadastrado na base de dados da AdoPet.")]
-    internal class List : IComando
+    public class List : IComando
     {
-        HttpClient client;
+        private readonly HttpClientPet clientPet;
 
-        public List()
+        public List(HttpClientPet clientPet)
         {
-            client = ConfiguraHttpClient("http://localhost:5057");
+            this.clientPet = clientPet;
         }
 
-        public async Task ExecutarAsync(string[] args)
+        public Task<Result> ExecutarAsync()
         {
-            await this.ListaDadosPetsDaAPIAsync();
+            return this.ListaDadosPetsDaAPIAsync();
         }
 
-        private async Task<IEnumerable<Pet>> ListaDadosPetsDaAPIAsync()
+        private async Task<Result> ListaDadosPetsDaAPIAsync()
         {
-            var pets = await ListPetsAsync();
-            foreach (var pet in pets)
+            try
             {
-                System.Console.WriteLine(pet);
+                IEnumerable<Pet>? pets = await clientPet.ListPetsAsync();
+                return Result.Ok().WithSuccess(new SuccessWithPets(pets, "Listagem de Pet's realizada com sucesso!"));
             }
-
-            return pets;
-        }
-
-        async Task<IEnumerable<Pet>?> ListPetsAsync()
-        {
-            HttpResponseMessage response = await client.GetAsync("pet/list");
-            return await response.Content.ReadFromJsonAsync<IEnumerable<Pet>>();
-        }
-
-        HttpClient ConfiguraHttpClient(string url)
-        {
-            HttpClient _client = new HttpClient();
-            _client.DefaultRequestHeaders.Accept.Clear();
-            _client.DefaultRequestHeaders.Accept.Add(
-                new MediaTypeWithQualityHeaderValue("application/json"));
-            _client.BaseAddress = new Uri(url);
-            return _client;
+            catch (Exception exception)
+            {
+                return Result.Fail(new Error("Listagem falhou!").CausedBy(exception));
+            }
         }
     }
 }

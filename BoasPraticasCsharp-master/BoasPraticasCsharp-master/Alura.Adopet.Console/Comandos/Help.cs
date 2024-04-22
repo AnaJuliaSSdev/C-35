@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using Alura.Adopet.Console.Util;
+using FluentResults;
 using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Alura.Adopet.Console.Comandos
 
@@ -11,47 +8,56 @@ namespace Alura.Adopet.Console.Comandos
     [DocComando(instrucao: "help", documentacao: " adopet help comando que exibe informações da ajuda.\n" +
         " adopet help <NOME_COMANDO> para acessar a ajuda de um comando específico.")]
 
-    internal class Help: IComando
+    public class Help : IComando
     {
         private Dictionary<string, DocComando> docs;
+        private string? comando;
 
-        public Help()
+        public Help(string? comando)
         {
-            docs = Assembly.GetExecutingAssembly().GetTypes().Where(t => t.GetCustomAttributes<DocComando>().Any()).
-                Select(t => t.GetCustomAttribute<DocComando>()!)
-                .ToDictionary(d => d.Instrucao);
+            docs = DocumentacaoDoSistema.ToDictionary(Assembly.GetExecutingAssembly());
+            this.comando = comando;
         }
 
-        public Task ExecutarAsync(string[] args)
+        public Task<Result> ExecutarAsync()
         {
-            this.ExibeDocumentacao(parametros: args);
-            return Task.CompletedTask;
-        }
-
-        public void ExibeDocumentacao(string[] parametros)
-        {
-            System.Console.WriteLine("Lista de comandos.");
-            // se não passou mais nenhum argumento mostra help de todos os comandos
-            if (parametros.Length == 1)
+            try
             {
-                System.Console.WriteLine($"Adopet (1.0) - Aplicativo de linha de comando (CLI).");
-                System.Console.WriteLine($"Realiza a importação em lote de um arquivos de pets.");
-                System.Console.WriteLine($"Comando possíveis: ");
+                return Task.FromResult(Result.Ok().WithSuccess(new SuccessWithDocs(this.GerarDocumentacao())));
+            }
+            catch (Exception exception)
+            {
+                return Task.FromResult(Result.Fail(new Error("Exibição da documentação falhou!").CausedBy(exception)));
+            }
+        }
+
+        private IEnumerable<string> GerarDocumentacao()
+        {
+            List<string> resultado = new List<string>();
+            // se não passou mais nenhum argumento mostra help de todos os comandos
+            if (this.comando is null)
+            {
                 foreach (var doc in docs.Values)
                 {
-                    System.Console.WriteLine(doc.Documentacao);
+                    resultado.Add(doc.Documentacao);
                 }
             }
             // exibe o help daquele comando específico
-            else if (parametros.Length == 2)
+            else
             {
-                string comandoASerExibido = parametros[1];
-                if (docs.ContainsKey(comandoASerExibido))
+                if (docs.ContainsKey(this.comando))
                 {
-                    var comando = docs[comandoASerExibido];
-                    System.Console.WriteLine(comando.Documentacao);
+                    var comando = docs[this.comando];
+                    resultado.Add(comando.Documentacao);
+                }
+                else
+                {
+                    resultado.Add("Comando não encontrado!");
+                    throw new ArgumentException();
                 }
             }
+
+            return resultado;
         }
     }
 }
