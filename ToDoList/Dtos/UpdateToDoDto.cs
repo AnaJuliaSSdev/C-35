@@ -1,15 +1,20 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using System.Diagnostics.CodeAnalysis;
 using ToDoList.Enums;
 
 namespace ToDoList.Dtos;
 
-public class UpdateToDoDto
+public class UpdateToDoDto: IValidatableObject
 {
     [Required]
-    [NotNull]
     public string? Description { get; set; }
     [Required]
-    [NotNull]
     public TodoPriority? Priority { get; set; }
+
+    public IEnumerable<ValidationResult> Validate(ValidationContext validationContext)
+    {
+        if (!Enum.IsDefined(typeof(TodoPriority), Priority))
+        {
+            yield return new ValidationResult("Invalid Priority value.", new[] { nameof(Priority) });
+        }
+    }
 }   

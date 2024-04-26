@@ -3,6 +3,7 @@ using ToDoList.Models;
 using ToDoList.Dtos;
 using AutoMapper;
 using ToDoList.Enums;
+using ToDoList.Repositories;
 
 namespace ToDoList.Controllers;
 
@@ -10,13 +11,14 @@ namespace ToDoList.Controllers;
 [Route("api/[controller]")]
 public class ToDoController : ControllerBase
 {
-    private static List<ToDo> toDos = new List<ToDo>();
     private static int id = 0;
+    private ITodoRepository _todoRepository;
     private IMapper _mapper;
 
-    public ToDoController(IMapper mapper)
+    public ToDoController(IMapper mapper, ITodoRepository todoRepository)
     {
         _mapper = mapper;
+        _todoRepository = todoRepository;
     }
 
     /// <summary>
@@ -33,7 +35,7 @@ public class ToDoController : ControllerBase
         ToDo newToDo = _mapper.Map<ToDo>(toDoDto);
 
         newToDo.Id = id++;
-        toDos.Add(newToDo);
+        _todoRepository.AddToDo(newToDo);
         return CreatedAtAction(nameof(GetToDoById), new { id = newToDo.Id },
             newToDo); 
     }
@@ -51,21 +53,9 @@ public class ToDoController : ControllerBase
     public IEnumerable<IListToDosDto> ToDoList([FromQuery] int skip = 0, [FromQuery] int take = 20,
         [FromQuery] TodoPriority? priority = null, [FromQuery] bool? isCompleted = null)
     {
-        var filteredTodos = toDos.AsQueryable();
+        var filteredTodos = _todoRepository.GetAllToDos(skip, take, priority, isCompleted).AsQueryable();
         var userAgent = Request.Headers["User-Agent"].ToString().ToLower();
         bool isMobileRequest = userAgent.Contains("mobile"); 
-
-        if (priority.HasValue)
-        {
-            filteredTodos = filteredTodos.Where(toDo => toDo.Priority == priority);
-        }
-
-        if (isCompleted.HasValue)
-        {
-            filteredTodos = filteredTodos.Where(toDo => toDo.IsCompleted == isCompleted);
-        }
-
-        filteredTodos = filteredTodos.Skip(skip).Take(take);
 
        if (isMobileRequest)
         {
@@ -95,7 +85,7 @@ public class ToDoController : ControllerBase
     [ProducesResponseType(typeof(void), 404)]
     public IActionResult GetToDoById(int id)
     {
-        var toDo = toDos.FirstOrDefault(toDo => toDo.Id == id);
+        var toDo = _todoRepository.GetToDoById(id);
         if (toDo == null) return NotFound();
         return Ok(new ListWebToDosDto
         {
@@ -116,10 +106,10 @@ public class ToDoController : ControllerBase
     [ProducesResponseType(typeof(void), 404)]
     public IActionResult UpdateIsCompleted(int id)
     {
-        var toDo = toDos.FirstOrDefault(toDo => toDo.Id == id);
+        var toDo = _todoRepository.GetToDoById(id);
         if (toDo == null) return NotFound();
 
-        toDo.IsCompleted = !toDo.IsCompleted;
+        _todoRepository.UpdateIsCompleted(toDo.Id); 
         return Ok(toDo);
     }
 
@@ -134,7 +124,7 @@ public class ToDoController : ControllerBase
     [ProducesResponseType(typeof(void), 404)]
     public IActionResult EditToDo(int id, [FromBody] UpdateToDoDto toDoDto)
     {
-        var toDo = toDos.FirstOrDefault(toDo => toDo.Id == id);
+        var toDo = _todoRepository.GetToDoById(id);
         if (toDo == null) return NotFound();
         _mapper.Map(toDoDto, toDo);
         return NoContent(); 
@@ -150,9 +140,9 @@ public class ToDoController : ControllerBase
     [ProducesResponseType(typeof(void), 404)]
     public IActionResult DeleteToDo(int id)
     {
-        var toDo = toDos.FirstOrDefault(toDo => toDo.Id == id);
+        var toDo = _todoRepository.GetToDoById(id);
         if (toDo == null) return NotFound();
-        toDos.Remove(toDo);
+        _todoRepository.DeleteToDo(toDo);
         return NoContent();
     }
 

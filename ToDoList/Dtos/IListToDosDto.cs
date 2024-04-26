@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace ToDoList.Dtos;
+﻿namespace ToDoList.Dtos;
 
 public class IListToDosDto
 {

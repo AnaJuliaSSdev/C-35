@@ -2,15 +2,15 @@
 using Alura.Adopet.Console.Comandos;
 using Alura.Adopet.Console.Util;
 
-namespace Alura.Adopet.Testes
+namespace Alura.Adopet.Testes.Unitarios
 {
     public class GeraDocumentacaoTeste
     {
         [Fact]
         public void QuandoExistemComandosDeveRetornarDicionarioNaoVazio()
         {
-            Assembly assemblyComOTipoDocComando = Assembly.GetAssembly(typeof(DocComando))!; 
-            Dictionary<string, DocComando> dicionario = DocumentacaoDoSistema.ToDictionary(assemblyComOTipoDocComando);  
+            Assembly assemblyComOTipoDocComando = Assembly.GetAssembly(typeof(DocComando))!;
+            Dictionary<string, DocComando> dicionario = DocumentacaoDoSistema.ToDictionary(assemblyComOTipoDocComando);
             Assert.NotEmpty(dicionario);
             Assert.NotNull(dicionario);
             Assert.Equal(4, dicionario.Count);

@@ -3,7 +3,7 @@ using Alura.Adopet.Testes.Builder;
 using Alura.Adopet.Console.Comandos;
 using Alura.Adopet.Console.Util;
 
-namespace Alura.Adopet.Testes
+namespace Alura.Adopet.Testes.Unitarios
 {
     public class ShowTest
     {

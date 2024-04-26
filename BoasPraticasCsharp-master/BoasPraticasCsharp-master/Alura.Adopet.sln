@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alura.Adopet.API", "Alura.A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alura.Adopet.Console", "Alura.Adopet.Console\Alura.Adopet.Console.csproj", "{CDC4860C-35AD-4396-B20F-547C44F680CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alura.Adopet.Testes", "Alura.Adopet.Testes\Alura.Adopet.Testes.csproj", "{B0FB1CB7-3202-454C-BD9B-7443D79D4535}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alura.Adopet.Testes", "Alura.Adopet.Testes\Alura.Adopet.Testes.csproj", "{B0FB1CB7-3202-454C-BD9B-7443D79D4535}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{43E7C6AA-9C93-4A06-9D41-1B45D0CC0276}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{2D6DC668-F97B-49F7-85B1-BCA8DFC41E23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,6 +34,11 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1EFD091A-90B3-42C9-90D0-1B73FA46C5C1} = {43E7C6AA-9C93-4A06-9D41-1B45D0CC0276}
+		{CDC4860C-35AD-4396-B20F-547C44F680CC} = {43E7C6AA-9C93-4A06-9D41-1B45D0CC0276}
+		{B0FB1CB7-3202-454C-BD9B-7443D79D4535} = {2D6DC668-F97B-49F7-85B1-BCA8DFC41E23}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EAEB95A1-EC72-45C6-AC85-ED67A380D7A0}

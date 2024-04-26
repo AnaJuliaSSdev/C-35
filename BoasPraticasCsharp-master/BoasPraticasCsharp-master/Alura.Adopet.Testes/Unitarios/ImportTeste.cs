@@ -5,7 +5,7 @@ using Alura.Adopet.Console.Util;
 using Alura.Adopet.Testes.Builder;
 using Moq;
 
-namespace Alura.Adopet.Testes
+namespace Alura.Adopet.Testes.Unitarios
 {
     public class ImportTeste
     {
@@ -59,7 +59,7 @@ namespace Alura.Adopet.Testes
 
             Assert.True(resultado.IsSuccess);
             var sucesso = (SuccessWithPets)resultado.Successes[0];
-            Assert.Equal("Lima", sucesso.Data.First().Nome); 
+            Assert.Equal("Lima", sucesso.Data.First().Nome);
         }
 
 

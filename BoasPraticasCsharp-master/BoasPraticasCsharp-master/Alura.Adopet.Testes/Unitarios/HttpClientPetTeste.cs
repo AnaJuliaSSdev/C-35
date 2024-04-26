@@ -1,11 +1,10 @@
 using Alura.Adopet.Console.Servicos;
-using Alura.Adopet.Testes.Builder;
 using Moq;
 using Moq.Protected;
 using System.Net;
 using System.Net.Sockets;
 
-namespace Alura.Adopet.Testes
+namespace Alura.Adopet.Testes.Unitarios
 {
     public class HttpClientPetTeste
     {
@@ -88,10 +87,12 @@ namespace Alura.Adopet.Testes
                   ItExpr.IsAny<CancellationToken>())
                .ThrowsAsync(new SocketException());
 
+            var httpClient = new Mock<HttpClient>(MockBehavior.Default, handlerMock.Object);
+            httpClient.Object.BaseAddress = new Uri("http://localhost:5057");
 
-            var httpClient = HttpClientPetMockBuilder.GetMock();
+            var clientePet = new HttpClientPet(httpClient.Object);
 
-            await Assert.ThrowsAnyAsync<Exception>(() => httpClient.Object.ListPetsAsync());
+            await Assert.ThrowsAnyAsync<Exception>(() => clientePet.ListPetsAsync());
         }
     }
 }

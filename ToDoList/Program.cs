@@ -1,12 +1,13 @@
 using Microsoft.OpenApi.Models;
 using System.Reflection;
+using ToDoList.Middlewares;
+using ToDoList.Repositories;
+using ToDoList.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
 builder.Services.AddEndpointsApiExplorer();
 
 builder.Services.AddSwaggerGen(c =>
@@ -17,11 +18,16 @@ builder.Services.AddSwaggerGen(c =>
     c.IncludeXmlComments(xmlPath);
 });
 
-builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies()); 
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
+builder.Services.AddSingleton<ILoggerRepository, LoggerRepository>();
+builder.Services.AddSingleton<ITodoRepository, TodoRepository>();
+builder.Services.AddScoped<ICreateRequestLogService, CreateRequestLogService>(); 
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+app.UseLoggingMiddleware();
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

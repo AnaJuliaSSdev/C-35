@@ -1,6 +1,6 @@
 ﻿using Alura.Adopet.Console.Comandos;
 
-namespace Alura.Adopet.Testes
+namespace Alura.Adopet.Testes.Unitarios
 {
     public class HelpTest
     {

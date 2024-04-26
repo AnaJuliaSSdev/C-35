@@ -1,7 +1,7 @@
 ﻿using Alura.Adopet.Console.Modelos;
 using Alura.Adopet.Console.Util;
 
-namespace Alura.Adopet.Testes
+namespace Alura.Adopet.Testes.Unitarios
 {
     public class PetAPartirDoCsvTeste
     {
