@@ -3,84 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\services\\icreaterequestlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|solutionrelative:services\\icreaterequestlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|c:\\users\\ana.soares\\desktop\\c-35\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|c:\\users\\ana.soares\\desktop\\c-35\\todolist\\services\\icreaterequestlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|solutionrelative:services\\icreaterequestlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|c:\\users\\ana.soares\\desktop\\c-35\\todolist\\services\\createrequestlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|solutionrelative:services\\createrequestlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|c:\\users\\ana.soares\\desktop\\c-35\\todolist\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|solutionrelative:repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|c:\\users\\ana.soares\\desktop\\c-35\\todolist\\repositories\\loggerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|solutionrelative:repositories\\loggerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|c:\\users\\ana.soares\\desktop\\c-35\\todolist\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|solutionrelative:repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|c:\\users\\ana.soares\\desktop\\c-35\\todolist\\repositories\\iloggerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|solutionrelative:repositories\\iloggerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|c:\\users\\ana.soares\\desktop\\c-35\\todolist\\middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|solutionrelative:middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|c:\\users\\ana.soares\\desktop\\c-35\\todolist\\controllers\\loggingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|solutionrelative:controllers\\loggingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|c:\\users\\ana.soares\\desktop\\c-35\\todolist\\profiles\\todoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|solutionrelative:profiles\\todoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|c:\\users\\ana.soares\\desktop\\c-35\\todolist\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|solutionrelative:models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|c:\\users\\ana.soares\\desktop\\c-35\\todolist\\models\\requestlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\models\\requestlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|solutionrelative:models\\requestlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|c:\\users\\ana.soares\\desktop\\c-35\\todolist\\middlewares\\loggingmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\middlewares\\loggingmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|solutionrelative:middlewares\\loggingmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|c:\\users\\ana.soares\\desktop\\c-35\\todolist\\enums\\todopriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|solutionrelative:middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\enums\\todopriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|solutionrelative:enums\\todopriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|c:\\users\\ana.soares\\desktop\\c-35\\todolist\\dtos\\updatetododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\dtos\\updatetododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|solutionrelative:dtos\\updatetododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|c:\\users\\ana.soares\\desktop\\c-35\\todolist\\dtos\\listwebtodosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\dtos\\listwebtodosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|solutionrelative:dtos\\listwebtodosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|c:\\users\\ana.soares\\desktop\\c-35\\todolist\\dtos\\listmobiletodosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\dtos\\listmobiletodosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|solutionrelative:dtos\\listmobiletodosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|c:\\users\\ana.soares\\desktop\\c-35\\todolist\\dtos\\ilisttodosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\dtos\\ilisttodosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|solutionrelative:dtos\\ilisttodosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|c:\\users\\ana.soares\\desktop\\c-35\\todolist\\dtos\\createtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\dtos\\createtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|solutionrelative:dtos\\createtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|c:\\users\\ana.soares\\desktop\\c-35\\todolist\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|solutionrelative:controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,47 +54,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T11:29:55.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ICreateRequestLogService.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Services\\ICreateRequestLogService.cs",
-              "RelativeDocumentMoniker": "Services\\ICreateRequestLogService.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Services\\ICreateRequestLogService.cs",
-              "RelativeToolTip": "Services\\ICreateRequestLogService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T11:29:51.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateRequestLogService.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Services\\CreateRequestLogService.cs",
-              "RelativeDocumentMoniker": "Services\\CreateRequestLogService.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Services\\CreateRequestLogService.cs",
-              "RelativeToolTip": "Services\\CreateRequestLogService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T11:29:06.675Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -177,85 +102,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TodoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Repositories\\TodoRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\TodoRepository.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Repositories\\TodoRepository.cs",
-              "RelativeToolTip": "Repositories\\TodoRepository.cs",
+              "DocumentIndex": 0,
+              "Title": "ICreateRequestLogService.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Services\\ICreateRequestLogService.cs",
+              "RelativeDocumentMoniker": "Services\\ICreateRequestLogService.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Services\\ICreateRequestLogService.cs",
+              "RelativeToolTip": "Services\\ICreateRequestLogService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T11:29:43.336Z",
+              "WhenOpened": "2024-04-26T11:29:51.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoggerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Repositories\\LoggerRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\LoggerRepository.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Repositories\\LoggerRepository.cs",
-              "RelativeToolTip": "Repositories\\LoggerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T11:29:42.409Z",
+              "WhenOpened": "2024-04-26T11:29:55.005Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ITodoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Repositories\\ITodoRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ITodoRepository.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Repositories\\ITodoRepository.cs",
-              "RelativeToolTip": "Repositories\\ITodoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T11:29:40.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ILoggerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Repositories\\ILoggerRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ILoggerRepository.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Repositories\\ILoggerRepository.cs",
-              "RelativeToolTip": "Repositories\\ILoggerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T11:29:40.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ToDoProfile.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Profiles\\ToDoProfile.cs",
-              "RelativeDocumentMoniker": "Profiles\\ToDoProfile.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Profiles\\ToDoProfile.cs",
-              "RelativeToolTip": "Profiles\\ToDoProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T11:28:28.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ToDo.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Models\\ToDo.cs",
-              "RelativeDocumentMoniker": "Models\\ToDo.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Models\\ToDo.cs",
-              "RelativeToolTip": "Models\\ToDo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T11:28:23.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "RequestLog.cs",
               "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Models\\RequestLog.cs",
               "RelativeDocumentMoniker": "Models\\RequestLog.cs",
@@ -263,12 +136,11 @@
               "RelativeToolTip": "Models\\RequestLog.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T11:28:19.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T11:28:19.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "LoggingMiddlewareExtensions.cs",
               "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Middlewares\\LoggingMiddlewareExtensions.cs",
               "RelativeDocumentMoniker": "Middlewares\\LoggingMiddlewareExtensions.cs",
@@ -276,12 +148,11 @@
               "RelativeToolTip": "Middlewares\\LoggingMiddlewareExtensions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T11:28:17.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T11:28:17.752Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "LoggingMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Middlewares\\LoggingMiddleware.cs",
               "RelativeDocumentMoniker": "Middlewares\\LoggingMiddleware.cs",
@@ -289,12 +160,11 @@
               "RelativeToolTip": "Middlewares\\LoggingMiddleware.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAYwCkAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T11:28:16.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T11:28:16.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "ToDoPriority.cs",
               "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Enums\\ToDoPriority.cs",
               "RelativeDocumentMoniker": "Enums\\ToDoPriority.cs",
@@ -302,12 +172,11 @@
               "RelativeToolTip": "Enums\\ToDoPriority.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T11:28:14.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T11:28:14.472Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 6,
               "Title": "UpdateToDoDto.cs",
               "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Dtos\\UpdateToDoDto.cs",
               "RelativeDocumentMoniker": "Dtos\\UpdateToDoDto.cs",
@@ -315,12 +184,11 @@
               "RelativeToolTip": "Dtos\\UpdateToDoDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T11:28:08.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T11:28:08.81Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 7,
               "Title": "ListWebToDosDto.cs",
               "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Dtos\\ListWebToDosDto.cs",
               "RelativeDocumentMoniker": "Dtos\\ListWebToDosDto.cs",
@@ -328,25 +196,11 @@
               "RelativeToolTip": "Dtos\\ListWebToDosDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T11:28:07.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T11:28:07.401Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "LoggingController.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Controllers\\LoggingController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LoggingController.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Controllers\\LoggingController.cs",
-              "RelativeToolTip": "Controllers\\LoggingController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T11:27:52.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "ListMobileToDosDto.cs",
               "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Dtos\\ListMobileToDosDto.cs",
               "RelativeDocumentMoniker": "Dtos\\ListMobileToDosDto.cs",
@@ -354,12 +208,11 @@
               "RelativeToolTip": "Dtos\\ListMobileToDosDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T11:27:59.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T11:27:59.174Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 9,
               "Title": "IListToDosDto.cs",
               "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Dtos\\IListToDosDto.cs",
               "RelativeDocumentMoniker": "Dtos\\IListToDosDto.cs",
@@ -367,12 +220,11 @@
               "RelativeToolTip": "Dtos\\IListToDosDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T11:27:58.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T11:27:58.192Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 10,
               "Title": "CreateToDoDto.cs",
               "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Dtos\\CreateToDoDto.cs",
               "RelativeDocumentMoniker": "Dtos\\CreateToDoDto.cs",
@@ -380,21 +232,7 @@
               "RelativeToolTip": "Dtos\\CreateToDoDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T11:27:56.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ToDoController.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Controllers\\ToDoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ToDoController.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Controllers\\ToDoController.cs",
-              "RelativeToolTip": "Controllers\\ToDoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T11:27:54.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T11:27:56.817Z"
             }
           ]
         }

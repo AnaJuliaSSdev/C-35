@@ -50,8 +50,8 @@ public class ToDoController : ControllerBase
     /// <returns>To do list.</returns>
     [HttpGet]
     [ProducesResponseType(typeof(IEnumerable<IListToDosDto>), 200)]
-    public IEnumerable<IListToDosDto> ToDoList([FromQuery] int skip = 0, [FromQuery] int take = 20,
-        [FromQuery] TodoPriority? priority = null, [FromQuery] bool? isCompleted = null)
+    public IEnumerable<IListToDosDto> ToDoList([FromQuery] TodoPriority priority, [FromQuery] bool isCompleted, 
+        [FromQuery] int skip = 0, [FromQuery] int take = 20)
     {
         var filteredTodos = _todoRepository.GetAllToDos(skip, take, priority, isCompleted).AsQueryable();
         var userAgent = Request.Headers["User-Agent"].ToString().ToLower();
