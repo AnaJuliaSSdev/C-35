@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Controllers"
+    "\\Controllers",
+    "\\Services"
   ],
   "SelectedNode": "\\ToDoList.sln",
   "PreviewInSolutionExplorer": false

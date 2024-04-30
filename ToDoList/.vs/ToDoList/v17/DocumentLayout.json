@@ -3,11 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\services\\icreaterequestlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|solutionrelative:services\\icreaterequestlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|c:\\users\\ana.soares\\desktop\\c-35\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5028E04-A9A0-4359-92EB-EED3CA86D25A}|ToDoList.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -54,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -101,21 +97,12 @@
               "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ICreateRequestLogService.cs",
-              "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Services\\ICreateRequestLogService.cs",
-              "RelativeDocumentMoniker": "Services\\ICreateRequestLogService.cs",
-              "ToolTip": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Services\\ICreateRequestLogService.cs",
-              "RelativeToolTip": "Services\\ICreateRequestLogService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T11:29:51.236Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -123,12 +110,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T11:29:55.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T11:29:55.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "RequestLog.cs",
               "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Models\\RequestLog.cs",
               "RelativeDocumentMoniker": "Models\\RequestLog.cs",
@@ -140,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "LoggingMiddlewareExtensions.cs",
               "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Middlewares\\LoggingMiddlewareExtensions.cs",
               "RelativeDocumentMoniker": "Middlewares\\LoggingMiddlewareExtensions.cs",
@@ -152,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "LoggingMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Middlewares\\LoggingMiddleware.cs",
               "RelativeDocumentMoniker": "Middlewares\\LoggingMiddleware.cs",
@@ -164,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ToDoPriority.cs",
               "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Enums\\ToDoPriority.cs",
               "RelativeDocumentMoniker": "Enums\\ToDoPriority.cs",
@@ -176,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "UpdateToDoDto.cs",
               "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Dtos\\UpdateToDoDto.cs",
               "RelativeDocumentMoniker": "Dtos\\UpdateToDoDto.cs",
@@ -188,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "ListWebToDosDto.cs",
               "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Dtos\\ListWebToDosDto.cs",
               "RelativeDocumentMoniker": "Dtos\\ListWebToDosDto.cs",
@@ -200,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "ListMobileToDosDto.cs",
               "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Dtos\\ListMobileToDosDto.cs",
               "RelativeDocumentMoniker": "Dtos\\ListMobileToDosDto.cs",
@@ -212,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "IListToDosDto.cs",
               "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Dtos\\IListToDosDto.cs",
               "RelativeDocumentMoniker": "Dtos\\IListToDosDto.cs",
@@ -224,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "CreateToDoDto.cs",
               "DocumentMoniker": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\Dtos\\CreateToDoDto.cs",
               "RelativeDocumentMoniker": "Dtos\\CreateToDoDto.cs",
