@@ -6,7 +6,7 @@ namespace ToDoList.Dtos;
 public class UpdateToDoDto: IValidatableObject
 {
     [Required]
-    public string? Description { get; set; }
+    public string Description { get; set; }
     [Required]
     public TodoPriority? Priority { get; set; }
 

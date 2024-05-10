@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\ToDoList.csproj": {}
+    "C:\\Users\\ana.soares\\Desktop\\EditToDo\\C-35\\ToDoList\\ToDoList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\ToDoList.csproj": {
+    "C:\\Users\\ana.soares\\Desktop\\EditToDo\\C-35\\ToDoList\\ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\ToDoList.csproj",
+        "projectUniqueName": "C:\\Users\\ana.soares\\Desktop\\EditToDo\\C-35\\ToDoList\\ToDoList.csproj",
         "projectName": "ToDoList",
-        "projectPath": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\ToDoList.csproj",
+        "projectPath": "C:\\Users\\ana.soares\\Desktop\\EditToDo\\C-35\\ToDoList\\ToDoList.csproj",
         "packagesPath": "C:\\Users\\ana.soares\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ana.soares\\Desktop\\C-35\\ToDoList\\obj\\",
+        "outputPath": "C:\\Users\\ana.soares\\Desktop\\EditToDo\\C-35\\ToDoList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ana.soares\\AppData\\Roaming\\NuGet\\NuGet.Config",
