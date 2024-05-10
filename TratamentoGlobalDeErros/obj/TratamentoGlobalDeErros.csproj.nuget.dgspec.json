@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ana.soares\\Desktop\\TratamentoGlobalDeErros\\TratamentoGlobalDeErros.csproj": {}
+    "C:\\Users\\ana.soares\\Desktop\\C-35\\TratamentoGlobalDeErros\\TratamentoGlobalDeErros.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ana.soares\\Desktop\\TratamentoGlobalDeErros\\TratamentoGlobalDeErros.csproj": {
+    "C:\\Users\\ana.soares\\Desktop\\C-35\\TratamentoGlobalDeErros\\TratamentoGlobalDeErros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ana.soares\\Desktop\\TratamentoGlobalDeErros\\TratamentoGlobalDeErros.csproj",
+        "projectUniqueName": "C:\\Users\\ana.soares\\Desktop\\C-35\\TratamentoGlobalDeErros\\TratamentoGlobalDeErros.csproj",
         "projectName": "TratamentoGlobalDeErros",
-        "projectPath": "C:\\Users\\ana.soares\\Desktop\\TratamentoGlobalDeErros\\TratamentoGlobalDeErros.csproj",
+        "projectPath": "C:\\Users\\ana.soares\\Desktop\\C-35\\TratamentoGlobalDeErros\\TratamentoGlobalDeErros.csproj",
         "packagesPath": "C:\\Users\\ana.soares\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ana.soares\\Desktop\\TratamentoGlobalDeErros\\obj\\",
+        "outputPath": "C:\\Users\\ana.soares\\Desktop\\C-35\\TratamentoGlobalDeErros\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ana.soares\\AppData\\Roaming\\NuGet\\NuGet.Config",

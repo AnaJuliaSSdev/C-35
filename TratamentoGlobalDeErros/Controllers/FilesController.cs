@@ -28,7 +28,7 @@ public class FilesController : ControllerBase
 
         var filePath = Path.Combine(_basePath, fileName);
 
-        if (!Directory.Exists(_basePath))
+        if (!Directory.Exists(filePath))
             return NotFound($"File \"{fileName}\" not found."); // 404
 
         if (!_contentTypeProvider.TryGetContentType(fileName, out string? contentType))
