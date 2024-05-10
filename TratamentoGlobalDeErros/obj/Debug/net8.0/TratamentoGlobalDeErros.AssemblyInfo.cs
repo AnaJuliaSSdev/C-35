@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TratamentoGlobalDeErros")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6183baec7621bb2437ab432bea69c46f9b6f1541")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1ec5249993cc8d543609ad16120bb7fe2d17e53")]
 [assembly: System.Reflection.AssemblyProductAttribute("TratamentoGlobalDeErros")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TratamentoGlobalDeErros")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
