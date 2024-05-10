@@ -37,7 +37,7 @@ public class ToDoController : ControllerBase
         newToDo.Id = id++;
         _todoRepository.AddToDo(newToDo);
         return CreatedAtAction(nameof(GetToDoById), new { id = newToDo.Id },
-            newToDo); 
+            newToDo);
     }
 
     /// <summary>
@@ -50,29 +50,17 @@ public class ToDoController : ControllerBase
     /// <returns>To do list.</returns>
     [HttpGet]
     [ProducesResponseType(typeof(IEnumerable<IListToDosDto>), 200)]
-    public IEnumerable<IListToDosDto> ToDoList([FromQuery] TodoPriority priority, [FromQuery] bool isCompleted, 
+    public IEnumerable<IListToDosDto> GetToDos([FromQuery] TodoPriority priority, [FromQuery] bool isCompleted,
         [FromQuery] int skip = 0, [FromQuery] int take = 20)
     {
         var filteredTodos = _todoRepository.GetAllToDos(skip, take, priority, isCompleted).AsQueryable();
         var userAgent = Request.Headers["User-Agent"].ToString().ToLower();
-        bool isMobileRequest = userAgent.Contains("mobile"); 
+        bool isMobileRequest = userAgent.Contains("mobile");
 
-       if (isMobileRequest)
-        {
-            return filteredTodos.Select(toDo => new ListMobileToDosDto
-            {
-                Description = toDo.Description,
-                IsCompleted = toDo.IsCompleted,
-            });
-        }
-        else 
-        return filteredTodos.Select(toDo => new ListWebToDosDto
-        {
-            Description = toDo.Description,
-            CreatedAt = toDo.CreatedAt,
-            Priority = toDo.GetPriorityAsString(),
-            IsCompleted = toDo.IsCompleted,
-        });
+        if (isMobileRequest)
+            return _mapper.Map<IEnumerable<ListMobileToDosDto>>(filteredTodos);
+        else
+            return _mapper.Map<IEnumerable<ListWebToDosDto>>(filteredTodos);
     }
 
     /// <summary>
@@ -87,13 +75,7 @@ public class ToDoController : ControllerBase
     {
         var toDo = _todoRepository.GetToDoById(id);
         if (toDo == null) return NotFound();
-        return Ok(new ListWebToDosDto
-        {
-            Description = toDo.Description,
-            CreatedAt = toDo.CreatedAt,
-            Priority = toDo.GetPriorityAsString(),
-            IsCompleted = toDo.IsCompleted,
-        }); 
+        return Ok(_mapper.Map<ListWebToDosDto>(toDo));
     }
 
     /// <summary>
@@ -109,7 +91,7 @@ public class ToDoController : ControllerBase
         var toDo = _todoRepository.GetToDoById(id);
         if (toDo == null) return NotFound();
 
-        _todoRepository.UpdateIsCompleted(toDo.Id); 
+        _todoRepository.UpdateIsCompleted(toDo.Id);
         return Ok(toDo);
     }
 
@@ -127,7 +109,7 @@ public class ToDoController : ControllerBase
         var toDo = _todoRepository.GetToDoById(id);
         if (toDo == null) return NotFound();
         _mapper.Map(toDoDto, toDo);
-        return NoContent(); 
+        return NoContent();
     }
 
     /// <summary>

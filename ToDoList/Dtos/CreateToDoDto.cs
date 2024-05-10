@@ -6,11 +6,9 @@ namespace ToDoList.Dtos;
 public class CreateToDoDto : IValidatableObject
 {
     [Required]
-    public string? Description { get; set; }
+    public string Description { get; set; }
     [Required]
     public TodoPriority? Priority { get; set; }
-    [Required]
-    public bool IsCompleted { get; set; }
 
     public IEnumerable<ValidationResult> Validate(ValidationContext validationContext)
     {

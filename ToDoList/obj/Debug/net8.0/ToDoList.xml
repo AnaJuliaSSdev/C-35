@@ -12,7 +12,7 @@
             <returns>IActionResult</returns>
             <response code="201">If insertion is successful</response>
         </member>
-        <member name="M:ToDoList.Controllers.ToDoController.ToDoList(ToDoList.Enums.TodoPriority,System.Boolean,System.Int32,System.Int32)">
+        <member name="M:ToDoList.Controllers.ToDoController.GetToDos(ToDoList.Enums.TodoPriority,System.Boolean,System.Int32,System.Int32)">
             <summary>
             A to do list with pagination and filtering options.
             </summary>
