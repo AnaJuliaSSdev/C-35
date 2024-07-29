@@ -2,6 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Controllers",
+    "\\Dtos",
+    "\\Enums",
     "\\Services"
   ],
   "SelectedNode": "\\ToDoList.sln",
