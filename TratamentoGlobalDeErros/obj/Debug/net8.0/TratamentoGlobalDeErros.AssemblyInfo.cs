@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TratamentoGlobalDeErros")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e26b90a8c6906f01e4cfa74541922583f5afafba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70e1fd309b62a24bdeea38c5155473b17a84a9ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("TratamentoGlobalDeErros")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TratamentoGlobalDeErros")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
