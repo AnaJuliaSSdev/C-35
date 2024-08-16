@@ -8,11 +8,11 @@ Este projeto foi desenvolvido como parte de um curso focado em testes de integra
 - Geração de Massa de Dados: Uso da biblioteca Bogus para criar dados fictícios para os testes.
 - Reversão de Dados: Implementação de métodos para limpar dados do banco após a execução dos testes, garantindo que os testes sejam determinísticos e isolados.
 
-Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
-- .NET 7
-- XUnit: Framework de testes utilizado para escrever e executar os testes de integração.
-- Entity Framework Core: ORM utilizado para gerenciar o contexto de dados e realizar migrações no banco de dados.
-- Testcontainers: Biblioteca utilizada para criar e gerenciar containers Docker durante os testes.
-- SQL Server: Banco de dados utilizado nos testes, rodando em um container Docker.
-- Bogus: Biblioteca usada para gerar dados fictícios de forma rápida e eficiente.
+- .NET 8
+- XUnit
+- Entity Framework Core
+- Testcontainers
+- SQL Server
+- Bogus
