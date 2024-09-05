@@ -38,6 +38,8 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
+app.UseCors();
+
 //using (var scope = app.Services.CreateScope())
 //{
 //    var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
