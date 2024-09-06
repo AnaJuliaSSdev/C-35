@@ -15,6 +15,12 @@ public class ProductController : ControllerBase
         _productService = productService;
     }
 
+    [HttpGet("/teste")]
+    public async Task<IActionResult> Teste()
+    {
+        return new OkObjectResult(new ListProductDTO() { Id = 1, Name = "Produto teste" });
+    }
+
     [HttpPost]
     public async Task<IActionResult> CreateProductAsync([FromBody] CreateProductDto productDto)
     {
